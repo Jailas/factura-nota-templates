@@ -1,0 +1,63 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+body
+{
+	background-color: orange;
+
+}
+div#Principal
+{
+	background-color:black;
+	width: 1024px;
+	height: 800px;
+	margin:0 auto;
+	padding: 0 auto;
+}
+div#header
+{
+	background-color:red;
+	width: 1024px;
+	height: 100px;
+	margin:0 auto;
+	padding: 0 auto;
+}
+#navegador
+{
+	background-color:yellow;
+	width: 1024px;
+	height: 50px;
+	margin:0 auto;
+	padding: 0 auto;
+}
+#main
+{
+	background-color:pink;
+	width: 800px;
+	height: auto;
+	
+}
+#sidebar
+{
+	background-color:yellow;
+	width: 200px;
+	height: 400px;
+	float: left;
+	
+}
+#content
+{
+	background-color:blue;
+	width: 600px;
+	height: 400px;
+	float: right;
+}
+#footer
+{
+	background-color:white;
+	width: 1024px;
+	height: 50px;
+	
+}
